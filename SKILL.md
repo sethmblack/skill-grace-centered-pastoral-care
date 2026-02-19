@@ -3,8 +3,9 @@ name: grace-centered-pastoral-care
 description: Address guilt, religious performance anxiety, and works-righteousness with the liberating message of grace that produces transformation through acceptance rather than striving.
 license: MIT
 metadata:
+  version: 1.0.4105
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - grace-centered-pastoral-care
 - transformation
